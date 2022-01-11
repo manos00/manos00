@@ -1,4 +1,4 @@
-###manos
+### manos
 
 basically only use github for school stuff and dotfiles
 
